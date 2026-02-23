@@ -170,8 +170,8 @@ section.div .landing-page img {
 }
 
 .feature-details {
-  margin-left: 8rem;
-  margin-right: 8rem;
+  margin-left: 4rem;
+  margin-right: 6rem;
   display: flex;
   justify-content: space-between;
 }
